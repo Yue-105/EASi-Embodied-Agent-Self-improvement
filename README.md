@@ -4,6 +4,20 @@
 
 # EASi: Embodied Agent Self-improvement
 
+<p align="center">
+<a href="https://github.com/Yue-105">Yue Yu</a><sup>1,2</sup>&nbsp;&nbsp;
+Junhui Li<sup>1,2</sup>&nbsp;&nbsp;
+Bin Zhu<sup>3</sup>&nbsp;&nbsp;
+Jiayu Wang<sup>1,2</sup>&nbsp;&nbsp;
+<a href="https://jingjing1.github.io/">Jingjing Chen</a><sup>1,2†</sup>
+</p>
+
+<p align="center">
+<sup>1</sup>Shanghai Key Lab of Intell. Info. Processing, School of CS, Fudan University<br>
+<sup>2</sup>Shanghai Collaborative Innovation Center on Intelligent Visual Computing<br>
+<sup>3</sup>Singapore Management University
+</p>
+
 This repository is the public implementation of **EASi (Embodied Agent Self-improvement)**, a self-evolution framework that enables a fixed general-purpose model to learn from its own interactions with the environment. EASi progressively attributes observed successes and failures to explicit adjustments and accumulates reusable knowledge across interaction rounds, allowing the agent to continuously refine how it solves a task. EASi achieves substantial improvements on challenging fine-grained manipulation tasks **without task-specific training or given demonstrations**. **Code and paper will be released soon.**
 
 ## Demo
