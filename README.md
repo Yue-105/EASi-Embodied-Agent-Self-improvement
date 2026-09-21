@@ -7,6 +7,7 @@
 <p align="center">
 <a href="https://github.com/Yue-105">Yue Yu</a><sup>1</sup>&nbsp;&nbsp;
 Junhui Li<sup>1</sup>&nbsp;&nbsp;
+Shijie Zhou<sup>1</sup>&nbsp;&nbsp;
 Bin Zhu<sup>2</sup>&nbsp;&nbsp;
 Jiayu Wang<sup>1</sup>&nbsp;&nbsp;
 <a href="https://jingjing1.github.io/">Jingjing Chen</a><sup>1†</sup>
