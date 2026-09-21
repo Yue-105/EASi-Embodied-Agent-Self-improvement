@@ -2,7 +2,7 @@
   <img src="assets/logo.png" width="360">
 </div>
 
-# EASi: Embodied Agent Self-improvement
+<h1 align="center">EASi: Embodied Agent Self-improvement</h1>
 
 <p align="center">
 <a href="https://github.com/Yue-105">Yue Yu</a><sup>1</sup>&nbsp;&nbsp;
