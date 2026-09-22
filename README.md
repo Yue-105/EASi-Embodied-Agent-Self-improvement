@@ -23,7 +23,7 @@ This repository is the public implementation of **EASi (Embodied Agent Self-impr
 
 ## Demo
 
-https://github.com/user-attachments/assets/b0368979-b9d5-4216-8e5e-f5852abb1ef1
+https://github.com/user-attachments/assets/1c9f53ee-ff52-435e-85a5-c994856b4bc9
 
 Using EASi, **GPT-6 Astra learns to solve a new plug-insertion task within four rounds of self-exploration**. The key challenge is to pick up the plug from a flat initial state with an appropriate gripper configuration for subsequent insertion, and then accurately insert it vertically into the socket.
 
